@@ -1,0 +1,2 @@
+# mim
+Moodle Instance Manager
